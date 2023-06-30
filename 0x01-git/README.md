@@ -1,2 +1,1 @@
-directory for git projects
-its getting fun!
+My first directory in repo
